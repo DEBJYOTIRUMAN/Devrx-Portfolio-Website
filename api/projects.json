@@ -82,5 +82,12 @@
         "description": "Dev Market Website Full Stack in React JS, ExpressJS, MongoDB, Node JS.",
         "link": "https://github.com/DEBJYOTIRUMAN/DevMarket-Website-FullStack-Project",
         "image": "../images/Dev Market.png"
+    },
+    {
+        "id": 13,
+        "name": "Galaxy Store App",
+        "description": "Galaxy Store Website in HTML, CSS, JavaScript, ExpressJS, MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/GalaxyStore-Website-FullStack-Project",
+        "image": "../images/Galaxy Store.png"
     }
 ]
