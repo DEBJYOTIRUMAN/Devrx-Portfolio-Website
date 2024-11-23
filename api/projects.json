@@ -89,5 +89,12 @@
         "description": "Galaxy Store Website in HTML, CSS, JavaScript, ExpressJS, MongoDB.",
         "link": "https://github.com/DEBJYOTIRUMAN/GalaxyStore-Website-FullStack-Project",
         "image": "../images/Galaxy Store.png"
+    },
+    {
+        "id": 14,
+        "name": "Carbon App",
+        "description": "Carbon 3D Website in React, ThreeJS, React Three Fiber, ExpressJS, MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Carbon-FullStack-Project",
+        "image": "../images/Carbon.png"
     }
 ]
